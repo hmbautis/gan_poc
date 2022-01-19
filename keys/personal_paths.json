@@ -1,4 +1,4 @@
 {
     "image_paths": ["E:/gan-getting-started/my_landscapes/","E:/gan-getting-started/my_landscapes_heic/"],
-    "style_paths": ["E:/gan-getting-started/portrait_style/", "E:/gan-getting-started/landscape_style/"]
+    "style_paths": ["E:/gan-getting-started/portrait_style/", "E:/gan-getting-started/landscape_style/","E:/gan-getting-started/monet_jpg/"]
 }
